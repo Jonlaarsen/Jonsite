@@ -77,7 +77,12 @@ const Hero = () => {
                     src="https://img.icons8.com/ios-filled/50/resume.png"
                     alt="resume"
                   />
-                  <h2>Resume</h2>
+                  <a
+                    download="Jon Larsen Resume.pdf"
+                    href="/Jon Larsen Resume.pdf"
+                  >
+                    Resume
+                  </a>
 
                   <div
                     className={cn(
