@@ -25,17 +25,17 @@ export const Portfolio = [
   },
   {
     id: 4,
-    title: "Photoria AI",
+    title: "Photoria AI !COMMING SOON!",
     desc: "An AI-powered image generation platform with custom-trained models. Designed for artists and creators, it offers unique styles, high-quality outputs, and a seamless user experience.",
-    link: "coming soon",
+
     image: "/images/Photoria.png",
     details: "Next.js, Custom AI Models, Tailwind",
   },
   {
     id: 5,
-    title: "Xedrix",
+    title: "Xedrix (internship)",
     desc: "A course website for students, built with WordPress and a CRM system for seamless management. It offers an intuitive user interface and a fully responsive design for accessibility.",
-    link: "https://Xedrix.com",
+    link: "https://www.xedrix.se/",
     image: "/images/xedrix.png",
     details: "WordPress, CRM",
   },
@@ -49,9 +49,9 @@ export const Portfolio = [
   // },
   {
     id: 6,
-    title: "InternConnect",
+    title: "InternConnect (internship)",
     desc: "A platform connecting interns with companies, built with Next.js and MUI for a clean and efficient user experience. It features job listings, interactive UI, and performance-driven optimization.",
-    link: "https://internconnect.com",
+    link: "https://internconnect.se/",
     image: "/images/internconnect.png",
     details: "Next.js, MUI",
   },
